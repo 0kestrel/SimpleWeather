@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="temperature">温度</string>
+    <string name="date">日期</string>
+    <string name="weather">天气</string>
+    <string name="wind">风向</string>
+    <string name="windpower">风力</string>
+    <string name="changsha">长沙</string>
+    <string name="city">城市</string>
+    <string name="today">今天</string>
+    <string name="tomorrow">明天</string>
+    <string name="in2days">后天</string>
+    <string name="select">查询天气</string>
+    <string name="input">收藏</string>
+    <string name="output">读取</string>
+
+</resources>
